@@ -8,6 +8,8 @@ Lecture contents for single-cell analysis in Python
 
 ## 2. Manual and data-driven filtering methods
 
-## 3. Dimensionality reduction and visualization
+## 3. Dimensionality reduction, visualization, and clustering
+
+[`section03_dimension_reduction_clustering.ipynb`](section03_dimension_reduction_clustering.ipynb)
 
 ## 4. Trajectory inference
