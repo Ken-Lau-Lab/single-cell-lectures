@@ -14,10 +14,16 @@ Lecture contents for single-cell analysis in Python
 
 [`Lecture3_Variant_1_Heuristic_droplet_filtering.ipynb`](Lecture3_Variant_1_Heuristic_droplet_filtering.ipynb)
 
-## 3. Dimensionality reduction, visualization, and clustering
+## 3. Feature Selection & Dimensionality reduction
 
-[`section03_dimension_reduction_clustering.ipynb`](section03_dimension_reduction_clustering.ipynb)
+[`section03_04_dimension_reduction_clustering.ipynb`](section03_04_dimension_reduction_clustering.ipynb)
 
-## 4. Trajectory inference
+[`section03_homework.ipynb`](section03_homework.ipynb)
 
-[`section04_trajectory_inference.ipynb`](section04_trajectory_inference.ipynb)
+## 4. Visualization & clustering
+
+[`section04_homework.ipynb`](section04_homework.ipynb)
+
+## 5. Trajectory inference
+
+[`section05_trajectory_inference.ipynb`](section05_trajectory_inference.ipynb)
