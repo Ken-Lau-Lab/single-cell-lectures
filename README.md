@@ -4,26 +4,25 @@ Lecture contents for single-cell analysis in Python
 
 ---
 
-## 1. Introduction to single-cell data formats and distributions
+## 1. Case study of using single-cell data to inform biomedical studies
+
+
+## 2. scRNA-seq data objects and structures
 
 [`section01_scRNAseq_intro.ipynb`](section01_scRNAseq_intro.ipynb)
 
-## 2. Manual and data-driven filtering methods
-
 [`section02_AnnData_Basics.ipynb`](section02_AnnData_Basics.ipynb)
 
-[`section03_Heuristic_droplet_filtering.ipynb`](section03_Heuristic_droplet_filtering.ipynb)
 
-## 3. Feature Selection & Dimensionality reduction
+## 3. Visualizing scRNA-seq
 
-[`section04_05_dimension_reduction_clustering.ipynb`](section04_05_dimension_reduction_clustering.ipynb)
 
-[`section04_homework.ipynb`](section04_homework.ipynb)
+## 4. Clustering and differential gene expression
+[`section03_04_dimension_reduction_clustering.ipynb`](section03_04_dimension_reduction_clustering.ipynb)
 
-## 4. Visualization & clustering
 
-[`section05_homework.ipynb`](section05_homework.ipynb)
+## 5. How to evaluate scRNA-seq data quality
 
-## 5. Trajectory inference
+[`section04_DataQuality.ipynb`](section04_DataQuality.ipynb)
 
-[`section06_trajectory_inference.ipynb`](section06_trajectory_inference.ipynb)
+## 6. Spatially resolved transcriptomics analysis
