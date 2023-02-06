@@ -26,4 +26,4 @@ Lecture contents for single-cell analysis in Python
 [`section04_DataQuality.ipynb`](section04_DataQuality.ipynb)
 
 ## 6. Spatially resolved transcriptomics analysis
-[`Lecture_ST_MILWRM.ipynb`](section_05_Spatial_Transcriptomics_analysis.ipynb)
+[`section_05_Spatial_Transcriptomics_analysis.ipynb`](Lecture_ST_MILWRM.ipynb)
