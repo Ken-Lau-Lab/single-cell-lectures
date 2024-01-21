@@ -14,15 +14,11 @@ Lecture contents for single-cell analysis in Python
 [`section02_AnnData_Basics.ipynb`](section02_AnnData_Basics.ipynb)
 
 
-## 3. Visualizing scRNA-seq
+## 3. scRNA-seq data processing, dimensionality reduction and visualization
+[`section03_data_process_dim_reduction.ipynb`](section03_data_process_dim_reduction.ipynb)
 
 
-## 4. Clustering and differential gene expression
-[`section03_04_dimension_reduction_clustering.ipynb`](section03_04_dimension_reduction_clustering.ipynb)
-
-
-## 5. How to evaluate scRNA-seq data quality
-
+## 4. How to evaluate scRNA-seq data quality
 [`section04_DataQuality.ipynb`](section04_DataQuality.ipynb)
 
 ## 6. Spatially resolved transcriptomics analysis
