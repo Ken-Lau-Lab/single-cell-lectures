@@ -23,3 +23,6 @@ Lecture contents for single-cell analysis in Python
 
 ## 5. Introduction to Spatial transcriptomics
 [`section_05_introduction_to_ST.ipynb`](/notebooks2024/section05_introduction_to_ST.ipynb)
+
+## 6. Spatial data analysis
+[`section_06_spatial_data_analysis.ipynb`](/notebooks2024/Spatial_analysis_section_06.ipynb)
