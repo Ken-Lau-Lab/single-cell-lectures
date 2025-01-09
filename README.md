@@ -4,25 +4,25 @@ Lecture contents for single-cell analysis in Python
 
 ---
 
-## 1. Case study of using single-cell data to inform biomedical studies
+## 1.Using human single-cell atlas data to gain biological insights – a Vanderbilt perspective
 
 
-## 2. scRNA-seq data objects and structures
+## 2. Objects and scRNA-seq data structure
 
-[`section01_scRNAseq_intro.ipynb`](/notebooks2024/section01_scRNAseq_intro.ipynb)
+[`section01_scRNAseq_intro.ipynb`](/notebooks2025/section01_scRNAseq_intro.ipynb)
 
-[`section02_AnnData_Basics.ipynb`](/notebooks2024/section02_AnnData_Basics.ipynb)
-
-
-## 3. scRNA-seq data processing, dimensionality reduction and visualization
-[`section03_data_process_dim_reduction.ipynb`](/notebooks2024/section03_data_process_dim_reduction.ipynb)
+[`section02_AnnData_Basics.ipynb`](/notebooks2025/section02_AnnData_Basics.ipynb)
 
 
-## 4. How to evaluate scRNA-seq data quality
-[`section04_DataQuality.ipynb`](/notebooks2024/section04_DataQuality.ipynb)
+## 3. Interpreting scRNA-seq data: high dimensional data analysis and visualization
+<font color = gray >Coming</font>
 
-## 5. Introduction to Spatial transcriptomics
-[`section_05_introduction_to_ST.ipynb`](/notebooks2024/section05_introduction_to_ST.ipynb)
 
-## 6. Spatial data analysis
-[`section_06_spatial_data_analysis.ipynb`](/notebooks2024/Spatial_analysis_section_06.ipynb)
+## 4. Use case: scRNA-seq data quality control
+Coming
+
+## 5. Scalable Methods for Annotating and Integrating scRNA-seq Datasets
+Coming
+
+## 6. Differential Gene Expression in scRNA-seq and Other Transcriptomic Methods
+Coming
