@@ -5,7 +5,7 @@ Lecture contents for single-cell analysis in Python
 ---
 
 ## 1.Using human single-cell atlas data to gain biological insights – a Vanderbilt perspective
-
+No coding exercise 
 
 ## 2. Objects and scRNA-seq data structure
 
