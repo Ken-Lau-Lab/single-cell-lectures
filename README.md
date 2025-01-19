@@ -15,7 +15,7 @@ No coding exercise
 
 
 ## 3. Interpreting scRNA-seq data: high dimensional data analysis and visualization
-<font color = gray >Coming</font>
+[`section03_data_process_dim_reduction.ipynb`](/notebooks2025/section03_data_process_dim_reduction.ipynb)
 
 
 ## 4. Use case: scRNA-seq data quality control
