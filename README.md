@@ -19,7 +19,8 @@ No coding exercise
 
 
 ## 4. Use case: scRNA-seq data quality control
-Coming
+[`section04_DataQuality.ipynb`](/notebooks2025/section04_DataQuality.ipynb)
+
 
 ## 5. Scalable Methods for Annotating and Integrating scRNA-seq Datasets
 Coming
