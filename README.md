@@ -23,7 +23,7 @@ No coding exercise
 
 
 ## 5. Scalable Methods for Annotating and Integrating scRNA-seq Datasets
-Coming
+[`Lecture5_Annotation_Integration.ipynb`](/notebooks2025/Lecture5_Annotation_Integration.ipynb)
 
 ## 6. Differential Gene Expression in scRNA-seq and Other Transcriptomic Methods
 Coming
