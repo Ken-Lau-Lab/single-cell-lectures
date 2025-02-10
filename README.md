@@ -26,4 +26,4 @@ No coding exercise
 [`Lecture5_Annotation_Integration.ipynb`](/notebooks2025/Lecture5_Annotation_Integration.ipynb)
 
 ## 6. Differential Gene Expression in scRNA-seq and Other Transcriptomic Methods
-Coming
+[`Lecture6_SpatialTranscriptomics_ImageManip.ipynb`](/notebooks2025/Lecture6_SpatialTranscriptomics_ImageManip.ipynb)
